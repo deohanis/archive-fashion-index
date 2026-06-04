@@ -18,7 +18,7 @@ Archive-Fashion-Index/
 ├── Asia/
 │   ├── Japan/
 │   │   ├── Japan.md                 # Main alphabetical brand list
-│   │   └── Styles/                  # Country-specific curated style lists
+│   │   └── Subcultures/                  # Country-specific curated subculture lists
 │   │       ├── Avant-Garde.md
 │   │       ├── Punk.md
 │   │       ├── Minimal.md
@@ -26,20 +26,20 @@ Archive-Fashion-Index/
 │   │       └── ...
 │   ├── South Korea/
 │   │   ├── SouthKorea.md
-│   │   └── Styles/
+│   │   └── Subcultures/
 │   ├── China/
 │   │   ├── China.md
-│   │   └── Styles/
+│   │   └── Subcultures/
 │   └── ...
 ├── Europe/
 │   ├── France/
 │   │   ├── France.md
-│   │   └── Styles/
+│   │   └── Subcultures/
 │   └── ...
 ├── North America/
 │   └── USA/
 │       ├── USA.md
-│       └── Styles/
+│       └── Subcultures/
 ├── Images/                          # Brand screenshots, lookbooks, campaigns
 ├── Templates/
 │   └── brand-template.md
@@ -50,7 +50,7 @@ Archive-Fashion-Index/
 
 Each country folder is self-contained and includes:
 
-- **`Country.md`** — A single, alphabetically organized master list of all documented brands from that country. - **`Styles/`** folder — Curated thematic lists (e.g., Avant-Garde, Punk, Minimal, Streetwear, Visual Kei, etc.) containing links to relevant brands from the main list.
+- **`Country.md`** — A single, alphabetically organized master list of all documented brands from that country. - **`Subcultures/`** folder — Curated thematic lists (e.g., Avant-Garde, Punk, Minimal, Streetwear, Visual Kei, etc.) containing links to relevant brands from the main list.
 
 This structure allows users to browse both **geographically** and **aesthetically**.
 
@@ -62,7 +62,7 @@ Typical entries include:
 
 - Origin, founding year, and founder 
 - Detailed description and cultural significance
-- Signature style and techniques 
+- Signature subculture and techniques 
 - Notable collections or moments 
 - Official links (website, Instagram, etc.) 
 - Visual references (screenshots or lookbook images)
@@ -73,7 +73,10 @@ This is a **community-curated** project. Everyone is welcome to participate!
 
 You can contribute by:
 
-- Adding new brands - Expanding existing entries with better descriptions or links - Creating or improving style lists - Adding high-quality images/screenshots
+- Adding new brands 
+- Expanding existing entries with better descriptions or links 
+- Creating or improving subculture lists 
+- Adding high-quality images/screenshots
 
 ### How to Contribute
 
@@ -84,11 +87,17 @@ All submissions will be **carefully reviewed** before being merged. The goal is 
 
 ## Guidelines
 
-- Prioritize archival value, cultural relevance, and creativity - Focus especially on Asian designers and niche/underground brands - Provide sources when possible - Use the official brand template for consistency
+- Prioritize archival value, cultural relevance, and creativity 
+- Focus especially on Asian designers and niche/underground brands 
+- Provide sources when possible 
+- Use the official brand template for consistency
 
 ## Future Plans
 
-- Expand visual references with more images and lookbooks - Add designer indexes and key collection timelines - Include brand evolution over decades - Create cross-references between similar aesthetics across countries
+- Expand visual references with more images and lookbooks 
+- Add designer indexes and key collection timelines 
+- Include brand evolution over decades 
+- Create cross-references between similar aesthetics across countries
 
 ---
 
